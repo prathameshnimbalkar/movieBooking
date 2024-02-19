@@ -1,0 +1,52 @@
+.roww{
+    height: 100px;
+    background-image: linear-gradient(rgba(99, 112, 168, 0.5), rgba(81, 91, 233, 0.5));
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border: 1px solid rgb(253, 253, 253);
+ 
+}
+ 
+.container text-center{
+ 
+    max-width: 100%;
+ 
+}
+/*.col-7{
+   
+    padding-top: 10px;
+    justify-content: space-between;
+   
+    width: 100%;
+    margin-bottom: 20px;
+ 
+}*/
+.col-5{
+    padding-bottom: 20px;
+   
+    width: 100%;
+}
+ 
+ /* .btn-spacing{
+    margin-right: 25px;
+   
+  }*/
+h4{
+    margin-top: 20px;
+}
+ 
+.navbar-text-left{
+    color: #828282;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.time-button button {
+    display: inline-block;
+    font-size:  15px;
+    padding:  5px  10px;
+    margin-right:  20px;
+    width:85px;
+    gap:20px;
+  }
